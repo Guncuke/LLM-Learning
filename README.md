@@ -1,5 +1,5 @@
 # LLM-Learning
 
-A repository of notes on LLMs
+llm-from-scratch
 
-[for homework](https://github.com/InternLM/Tutorial)
+from transformer to RLHF
